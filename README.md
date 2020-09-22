@@ -7,3 +7,5 @@ This was done through the analysis of all relevant raw data, so as to get a bett
 
 The project was completed using Excel and also paired with a PowerPoint.
 Features include the main model and dashboard in Excel, which is split into 3 separate worksheets, and a supplemental PowerPoint to quickly get across the big picture.
+
+Final recommendations based on the data available was to increase branch counts and eliminate dispensable vehicle stock.
