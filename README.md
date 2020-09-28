@@ -1,4 +1,4 @@
-# car-rentail-revenue-optimization
+# car-rental-revenue-optimization
 Model and Dashboard for revenue and structure optimization of a car rental company.
 
 The purpose for this project was to provide insight and recommendations so that a car rental company could optimize net revenue. This was to be done by maximizing gross revenue while minimizing expenditure, as well as simplifying existing structure where possible.
